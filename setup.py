@@ -33,7 +33,6 @@ dependencies = [
     # recovery, thus those versions should not be used.
     # https://github.com/googleapis/python-pubsub/issues/74
     "google-api-core[grpc]==1.14.0",
-    "google-cloud-core==0.28.1",
     "google-resumable-media==1.3.3",
     "grpc-google-iam-v1==0.12.3",
     'enum34; python_version < "3.4"',
